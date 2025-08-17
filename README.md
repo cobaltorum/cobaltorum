@@ -1,3 +1,3 @@
-TypeScript & OSS fanatic. I build whatever sounds like a good idea at 3 AM. Mostly tools no one asked for, side projects I’ll never finish, or frameworks that already exist (but mine has a supposedly cooler name). My stack consists of basically anything that lets me overengineer a todo app.
+TypeScript & OSS fanatic. 
 
-Also, I love going to coffee shops and pretend I’m being productive.
+I mostly build tools no one asked for, start side projects I’ll never finish, or reinvent frameworks that already exist (but with a cooler name). I also love going to coffee shops and pretending I’m being productive.
