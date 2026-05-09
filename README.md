@@ -6,4 +6,4 @@ I ❤️ Elixir and TypeScript, but occasionally go down a rabbit hole and come 
 
 I like building my own stuff, and these things make that possible
 
-![](https://skillicons.dev/icons?perline=4&i=elixir,ts,js,rust,go,postgres,sqlite,redis,kafka,docker)
+![](https://skillicons.dev/icons?perline=5&i=elixir,ts,js,rust,go,postgres,sqlite,redis,kafka,docker)
