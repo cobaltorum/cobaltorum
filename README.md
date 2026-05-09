@@ -1,7 +1,8 @@
-# 🌱 Hi, I'm Eddy
+Software engineer who spends too much time thinking about systems, tooling, and why 100 existing solutions somehow aren't right for me. Most of what I build starts as a side project and ends up in a production server somewhere. Sometimes my own, sometimes even yours.
 
-I build tools nobody asked for, start projects I'll never finish, or re invent existing frameworks (but with a cooler name). Most of it ends up here as open source for anyone that might want to use it.
+I ❤️ Elixir and TypeScript, but occasionally go down a rabbit hole and come back having implemented a heap or PID controller for reasons that made sense at the time. When I'm not doing that I'm probably wrapping an API I don't like or chasing a 5% speed improvement on something that already works fine.
 
 ## Tech Stack
 
-![](https://skillicons.dev/icons?perline=5&i=elixir,rust,go,zig,ts,postgres,sqlite,redis,kafka,docker)
+I like building my own stuff, and these things make that possible
+![](https://skillicons.dev/icons?perline=4&i=elixir,ts,js,rust,go,postgres,sqlite,redis,kafka,docker)
